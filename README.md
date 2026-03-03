@@ -36,4 +36,5 @@ public class TelcoPromo {
 
 
 ## Class Diagram
-![image](https://github.com/JerryEsperanza/factoryPattern/assets/142370600/0506f134-a5f6-4d98-a817-cd6f7a8466c7)
+<img width="2158" height="706" alt="image" src="https://github.com/user-attachments/assets/45f27858-9192-4412-b361-a252fb9573bc" />
+
